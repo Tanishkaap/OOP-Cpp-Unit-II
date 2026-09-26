@@ -41,3 +41,6 @@ int main()
 
     return 0;
 }
+Output :
+Base public function
+Base public function
