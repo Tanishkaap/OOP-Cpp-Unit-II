@@ -45,3 +45,6 @@ int main()
 
     return 0;
 }
+Output :
+Car moves on roads
+Boat moves on water
