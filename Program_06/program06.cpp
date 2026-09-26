@@ -56,3 +56,7 @@ int main()
 
     return 0;
 }
+Output :
+Academic Marks: 80
+Sports Marks: 15
+Total Marks: 95
