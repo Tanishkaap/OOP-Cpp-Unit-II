@@ -50,3 +50,7 @@ int main()
 
     return 0;
 }
+
+Output : 
+Name: Amit
+Roll Number: 101
