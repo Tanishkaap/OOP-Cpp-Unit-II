@@ -39,3 +39,6 @@ int main()
 
     return 0;
 }
+Output :
+Creation:    Base → Derived
+Destruction: Derived → Base
