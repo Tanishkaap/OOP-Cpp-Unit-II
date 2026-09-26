@@ -59,3 +59,8 @@ int main()
 
     return 0;
 }
+Output :
+Vehicle MH12AB1234 started
+Car boot opened
+Vehicle MH12CD5678 started
+Please wear a helmet
