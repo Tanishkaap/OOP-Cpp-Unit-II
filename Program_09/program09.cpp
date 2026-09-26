@@ -41,3 +41,6 @@ int main()
 
     return 0;
 }
+Output :
+Name: Kiran
+Roll Number: 24
