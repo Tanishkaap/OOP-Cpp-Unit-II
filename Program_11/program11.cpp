@@ -55,3 +55,6 @@ int main()
 
     return 0;
 }
+Output :
+Rectangle Area: 15
+Circle Area: 12.5664
