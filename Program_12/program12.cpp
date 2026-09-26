@@ -51,3 +51,15 @@ int main()
 
     return 0;
 }
+
+Output :
+
+Name: Riya
+
+Diagram :
+
+        Person
+       /      \
+  Student   Employee
+       \      /
+   TeachingAssistant
