@@ -42,3 +42,6 @@ int main()
 
     return 0;
 }
+Output :
+Developer: Neha
+Language: C++
