@@ -62,3 +62,7 @@ int main()
 
     return 0;
 }
+Output :
+Name: Ravi
+Employee ID: 501
+Team Size: 8
