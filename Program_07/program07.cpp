@@ -46,3 +46,8 @@ int main()
 
     return 0;
 }
+Output :
+Academic information
+Sports information
+Academic information
+Sports information
